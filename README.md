@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Utkarsh7545
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Utkarsh.
+- 👀 I’m interested in Software Development & Fitness.
+- 🌱 I’m currently learning DSA & Full Stack.
+- 📫 How to reach me "utkarshkumar7545@gmail.com" .
 
 <!---
-Utkarsh7545/Utkarsh7545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Utkarsh7545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
